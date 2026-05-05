@@ -97,11 +97,11 @@ shruti = {
 ### 🌍 Open Source
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Open%20Source-❤️%20Lover-F75C7E?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Open%20Source-%20Lover-F75C7E?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Hacktoberfest-Participant-blueviolet?style=for-the-badge&logo=github"/>
 </p>
 
-I believe in the power of **open source** — where collaboration builds something bigger than any one person can alone. 🌱
+I believe in the power of **open source** — where collaboration builds something bigger than any one person can alone. 
 
 - 🔓 All my learning projects are **open & free** for everyone to explore
 - 🤝 I welcome **contributions, suggestions & feedback** on my repos
@@ -109,7 +109,7 @@ I believe in the power of **open source** — where collaboration builds somethi
 - 💡 Interested in projects around **web development, Python tools & productivity apps**
 - 🏷️ Participating in **Hacktoberfest** & open source events to grow my skills
 
-> *"Open source is not just code — it's a community, a mindset, and a movement."* 🚀
+> *"Open source is not just code — it's a community, a mindset, and a movement."* 
 
 ---
 
